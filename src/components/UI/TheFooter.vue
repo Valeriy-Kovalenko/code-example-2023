@@ -9,11 +9,9 @@ export default {
 </script>
 
 <style scoped>
-* {
-  background-color: #2c3440;
-}
 
 footer {
   height: 200px;
+  background-color: #2c3440;
 }
 </style>
