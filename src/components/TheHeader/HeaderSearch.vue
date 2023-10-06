@@ -1,6 +1,6 @@
 <template>
   <div class="search">
-    <img src="../../../assets/search.png"/>
+    <img src="../../assets/search.png"/>
     <input type="text" placeholder="Search">
   </div>
 </template>
@@ -15,14 +15,14 @@ export default {
 .search {
   display: flex;
   align-items: center;
-  height: 40px;
+  height: 34px;
   width: 300px;
   border: 1px solid lightgrey;
   border-radius: 12px;
   background-color: #fff;
 }
 img {
-  height: 20px;
+  height: 18px;
   margin: 0 4px 0 8px;
 }
 

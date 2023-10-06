@@ -1,10 +1,14 @@
 <template>
-  <main>MainPage Content</main>
+  <main>
+    <ProfileHeader/>
+  </main>
 </template>
 
 <script>
+import ProfileHeader from "@/components/MainPage/ProfileHeader";
 export default {
-  name: "MainPage"
+  name: "MainPage",
+  components: {ProfileHeader}
 }
 </script>
 
@@ -14,6 +18,8 @@ export default {
 }
 
 main {
+  padding-top: 8px;
   height: 600px;
+  border: 1px solid red;
 }
 </style>

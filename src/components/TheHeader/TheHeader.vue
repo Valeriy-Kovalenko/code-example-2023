@@ -8,10 +8,10 @@
 </template>
 
 <script>
-import HeaderSearch from "@/components/UI/TheHeader/HeaderSearch.vue";
-import HeaderLogo from "@/components/UI/TheHeader/HeaderLogo.vue";
-import HeaderNav from "@/components/UI/TheHeader/HeaderNav.vue";
-import HeaderUser from "@/components/UI/TheHeader/HeaderUser.vue";
+import HeaderSearch from "@/components/TheHeader/HeaderSearch.vue";
+import HeaderLogo from "@/components/TheHeader/HeaderLogo.vue";
+import HeaderNav from "@/components/TheHeader/HeaderNav.vue";
+import HeaderUser from "@/components/TheHeader/HeaderUser.vue";
 
 export default {
   name: 'TheHeader',

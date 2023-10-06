@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import TheHeader from './components/UI/TheHeader/TheHeader.vue'
+import TheHeader from './components/TheHeader/TheHeader.vue'
 import TheFooter from './components/UI/TheFooter.vue'
 
 export default {

@@ -1,7 +1,7 @@
 <template>
 <div class="user">
-  <img src="../../../assets/arrow-down.svg" class="arrow"/>
-  <img src="../../../assets/user1.jpg" class="avatar"/>
+  <img src="../../assets/arrow-down.svg" class="arrow"/>
+  <img src="../../assets/user1.jpg" class="avatar"/>
 </div>
 </template>
 
